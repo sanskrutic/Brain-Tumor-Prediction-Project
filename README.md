@@ -1,6 +1,6 @@
 # Brain-Tumor-Prediction-Project
 
-🧠 Brain Tumor Prediction using CNN
+🧠 Brain Tumor Prediction using CNN:
 This project implements a Convolutional Neural Network (CNN) to classify brain MRI images and predict the presence of a brain tumor. The deep learning model is trained on labeled MRI scans to distinguish between tumor and non-tumor cases with high accuracy.
 
 🔍 Key Features:
